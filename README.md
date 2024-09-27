@@ -352,5 +352,14 @@ Using your browser of choice navigate to GKE cluster’s exposed IP on port `80`
 
 This was a very simple example of the use of Google Cloud Build, Google Container Registry and Google Kubernetes Engine to create a CI/CD pipeline.
 
-## 7 Copyright
-Author: Nho Luong (email: luonguongutnho@hotmail.com)
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c) 2024
